@@ -11,3 +11,5 @@ Server Side:
 Client Side:
 1.A web site is needed.
 2.The apps are needed.
+
+Database: MySQL or MongoDB ?
