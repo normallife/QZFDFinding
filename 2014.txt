@@ -6,3 +6,4 @@ git status
 
 git commands reference:
 http://www.jb51.net/article/55442.htm
+http://www.yiibai.com/git/git_push.html
