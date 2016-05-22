@@ -1,0 +1,9 @@
+		// Ctrl+1 could be quick fix.
+		// Ctrl+d could be line remove.
+		// shift+Enter could be change the line quickly.
+		// Ctrl+F11 quick Run the program.
+		// Alt+ UpArrow/DownArrow quick move the code lines.
+		// Ctrl+Alt+ UpArrow/DownArrow quick copy the code line.
+		// Ctrl+M to enlarge the focus perspective view
+		// Alt+/ to quick code tips
+		// Ctrl+/ to comment the codes
